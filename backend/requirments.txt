@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+numpy
+pandas
+tensorflow
+joblib
+scikit-learn==1.7.2
+pdfplumber
+pdf2image
+pytesseract
+camelot-py[cv]
+opencv-python-headless
+reportlab
+openai

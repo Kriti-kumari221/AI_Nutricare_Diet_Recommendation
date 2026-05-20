@@ -1,0 +1,46 @@
+{
+    "Day 1": {
+        "Breakfast": {
+            "meal": "Moong Dal Cheela with Steamed Vegetables",
+            "description": "2 small moong dal cheelas (made with low sodium salt) served with a mix of steamed carrots, spinach, and green beans."
+        },
+        "Snack": {
+            "meal": "Buttermilk",
+            "description": "1 cup plain buttermilk (unsweetened, low sodium)"
+        },
+        "Lunch": {
+            "meal": "Vegetable Khichdi with Moong Dal",
+            "description": "1 cup cooked vegetable khichdi (made with brown rice and moong dal, low sodium salt) served with a small portion of cooked moong dal."
+        },
+        "Evening": {
+            "meal": "Apple slices with a sprinkle of cinnamon",
+            "description": "1 medium apple, sliced, with a pinch of cinnamon."
+        },
+        "Dinner": {
+            "meal": "Mashed Sweet Potato with Palak Paneer",
+            "description": "1/2 cup mashed sweet potato (cooked without added salt) served with 1/2 cup palak paneer (made with low sodium paneer and spinach)."
+        }
+    },
+    "Day 2": {
+        "Breakfast": {
+            "meal": "Moong Dal Cheela with Steamed Vegetables",
+            "description": "2 small moong dal cheelas (made with low-sodium spices) served with a mix of steamed carrots, green beans, and spinach."
+        },
+        "Snack": {
+            "meal": "Buttermilk with a pinch of roasted cumin powder",
+            "description": "1 cup of homemade buttermilk with a sprinkle of roasted cumin powder for flavor."
+        },
+        "Lunch": {
+            "meal": "Vegetable Khichdi with Brown Rice",
+            "description": "1 cup of khichdi made with brown rice, moong dal, and low-sodium vegetables like carrots, peas, and potatoes. Served with a dollop of low-fat curd."
+        },
+        "Evening": {
+            "meal": "Apple slices with a sprinkle of cinnamon",
+            "description": "1 medium apple, sliced and sprinkled with a pinch of cinnamon."
+        },
+        "Dinner": {
+            "meal": "Mashed Sweet Potato with Steamed Broccoli",
+            "description": "1 cup of mashed sweet potato (cooked without added sugar) with a side of steamed broccoli."
+        }
+    }
+}
